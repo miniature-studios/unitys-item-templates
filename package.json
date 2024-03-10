@@ -1,7 +1,7 @@
 {
   "name": "com.github.unitys-item-templates",
-  "version": "1.0.2",
-  "displayName": "Item templates for Unity",
+  "version": "1.0.5",
+  "displayName": "Unitys Item Templates",
   "description": "Package that adds some item templates to project",
   "documentationUrl": "https://github.com/miniature-studios/unitys-item-templates",
   "changelogUrl": "https://github.com/miniature-studios/unitys-item-templates",
