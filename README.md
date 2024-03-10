@@ -21,7 +21,7 @@ Also, there is a [Visual Studio extension](https://marketplace.visualstudio.com
 
 Now you can create a file via top menu:
 
-<img width="600" alt="image" src="">
+<img width="600" alt="sample" src="https://github.com/miniature-studios/unitys-item-templates/assets/30412223/d6aca4cd-8bab-4f36-8256-2553102f0051">
 
 Alternatively, right-click on the project window context. Create -> C# Script with namespace
 
