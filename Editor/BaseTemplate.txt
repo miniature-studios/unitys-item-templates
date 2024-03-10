@@ -1,0 +1,14 @@
+using System;
+using UnityEngine; 
+
+namespace $rootnamespace$
+{
+    [AddComponentMenu("Scripts/$rootpath$/$rootnamespace$.#SCRIPTNAME#")] $customscript$
+    internal class #SCRIPTNAME# : MonoBehaviour 
+    {
+        private void Awake()
+        {
+            
+        }
+    }
+}

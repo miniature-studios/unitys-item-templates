@@ -1,0 +1,18 @@
+{
+  "name": "com.github.unitys-item-templates",
+  "version": "1.0.2",
+  "displayName": "Item templates for Unity",
+  "description": "Package that adds some item templates to project",
+  "documentationUrl": "https://github.com/miniature-studios/unitys-item-templates",
+  "changelogUrl": "https://github.com/miniature-studios/unitys-item-templates",
+  "licensesUrl": "https://github.com/miniature-studios/unitys-item-templates",
+  "keywords": [
+    "Item Templates",
+    "Scripting"
+  ],
+  "author": {
+    "name": "Kiuh",
+    "email": "kylturpro@gmail.com",
+    "url": "https://github.com/Kiuh"
+  }
+}
